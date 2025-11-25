@@ -4,6 +4,9 @@ Built an Inventory Management System in Power Apps using SharePoint lists to cen
 
 ![Inventory App Demo](./searcDropdwon.gif)
 
+## Demo
+
+![Inventory App Demo](./addinventory.gif)
 
 
 ## Key Features
